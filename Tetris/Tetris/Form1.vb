@@ -1,7 +1,7 @@
 ﻿Public Class Form1
     Private Sub Timer1_Tick(sender As Object, e As EventArgs) Handles Timer1.Tick
         follow(Enemy, Avatar, 5)
-        follow(Enemy2, Avatar, 10)
+        follow(Enemy2, Avatar, 5)
     End Sub
     Sub follow(E As PictureBox, A As PictureBox, speed As Integer)
 
