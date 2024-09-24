@@ -118,22 +118,25 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="pngtree-vegetables-and-fruits-in-a-basket-made-with-generative-ai-png-image_71103131" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pngtree-vegetables-and-fruits-in-a-basket-made-with-generative-ai-png-image_71103131.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="mixed-fruit-transparent-background-png" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mixed-fruit-transparent-background-png.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="images (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images (4).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="pngtree-vegetables-and-fruits-in-a-basket-made-with-generative-ai-png-image_7110313" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pngtree-vegetables-and-fruits-in-a-basket-made-with-generative-ai-png-image_7110313.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pngtree-vegetables-and-fruits-in-a-basket-made-with-generative-ai-png-image_71103131" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-vegetables-and-fruits-in-a-basket-made-with-generative-ai-png-image_71103131.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="YWM1ZjIzMzItMmVkOS00NDQyLTkwOWUtMzJlYzZkNzAzNWIy_box-combo_website_484x424_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\YWM1ZjIzMzItMmVkOS00NDQyLTkwOWUtMzJlYzZkNzAzNWIy_box-combo_website_484x424_0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="mixed-fruit-transparent-background-png" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\mixed-fruit-transparent-background-png.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pngtree-vegetables-and-fruits-in-a-basket-made-with-generative-ai-png-image_7110313" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-vegetables-and-fruits-in-a-basket-made-with-generative-ai-png-image_7110313.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="istock-1203599963-jpg" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\istock-1203599963-jpg.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="106-1066363_healthy-food-png-healthy-food-cartoon-png" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\106-1066363_healthy-food-png-healthy-food-cartoon-png.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
