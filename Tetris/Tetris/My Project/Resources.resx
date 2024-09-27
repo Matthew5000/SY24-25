@@ -121,8 +121,17 @@
   <data name="mixed-fruit-transparent-background-png" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mixed-fruit-transparent-background-png.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Toast" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Toast.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="106-1066363_healthy-food-png-healthy-food-cartoon-png" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\106-1066363_healthy-food-png-healthy-food-cartoon-png.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="images (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images (4).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-white-plate-on-white-background-round-photo-png-image_143648241" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-white-plate-on-white-background-round-photo-png-image_143648241.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="pngtree-vegetables-and-fruits-in-a-basket-made-with-generative-ai-png-image_71103131" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngtree-vegetables-and-fruits-in-a-basket-made-with-generative-ai-png-image_71103131.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -133,10 +142,19 @@
   <data name="pngtree-vegetables-and-fruits-in-a-basket-made-with-generative-ai-png-image_7110313" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngtree-vegetables-and-fruits-in-a-basket-made-with-generative-ai-png-image_7110313.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Raising_Canes.max-1200x675" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Raising_Canes.max-1200x675.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-white-plate-on-white-background-round-photo-png-image_14364824" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-white-plate-on-white-background-round-photo-png-image_14364824.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="istock-1203599963-jpg" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\istock-1203599963-jpg.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="106-1066363_healthy-food-png-healthy-food-cartoon-png" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\106-1066363_healthy-food-png-healthy-food-cartoon-png.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="unnamed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\unnamed.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="download (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\download (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
