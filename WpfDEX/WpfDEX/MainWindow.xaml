@@ -7,6 +7,13 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Image x:Name="ThreePic" HorizontalAlignment="Left" Height="191" VerticalAlignment="Top" Width="192" Source="/348s.jpg" Margin="324,26,0,0" Visibility="Hidden"/>
+        <Image x:Name="BoxPic" HorizontalAlignment="Left" Height="157" VerticalAlignment="Top" Width="224" Source="/images (1).jpg" Margin="309,60,0,0" Visibility="Hidden"/>
+        <Image x:Name="CaniacPic" HorizontalAlignment="Left" Height="157" VerticalAlignment="Bottom" Width="240" Source="/images.jpg" Margin="301,0,0,207" Visibility="Hidden"/>
+        <Label x:Name="CaniacLabel" Content="Label" HorizontalAlignment="Left" Margin="199,232,0,0" VerticalAlignment="Top" Height="108" Width="562" Visibility="Visible"/>
+        <Button Content="Caniac" HorizontalAlignment="Left" Margin="82,365,0,0" VerticalAlignment="Top" Height="33" Width="72" Click="Button_Click"/>
+        <Button Content="Box" HorizontalAlignment="Left" Margin="383,365,0,0" VerticalAlignment="Top" Height="33" Width="72" Click="Button_Click_1"/>
+        <Button Content="Three" HorizontalAlignment="Left" Margin="672,365,0,0" VerticalAlignment="Top" Height="33" Width="72" RenderTransformOrigin="0.487,0.577" Click="Button_Click_2"/>
+
     </Grid>
 </Window>
